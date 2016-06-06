@@ -1,5 +1,4 @@
 #include "BlingButton.h"
-#include "ButtonConfig.h"
 
 BlingButton b = BlingButton();
 
