@@ -1,0 +1,7 @@
+{
+  "name": "buzzy-pixel",
+  "license": "MIT",
+  "author": "Punam Dahiya <punamdahiya@yahoo.com>",
+  "version": "0.0.1",
+  "description": "A simple library that connects over Wifi to Particle cloud service and enable exchange of messages with paired device"
+}
